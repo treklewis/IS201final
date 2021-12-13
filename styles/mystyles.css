@@ -1,0 +1,80 @@
+/* Trek Lewis 12/13/21 */
+/* Overwritten Styles */
+body{
+    color:black;
+}
+
+span{
+    font-style: oblique;
+}
+
+h2{
+    color:darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #6c757d;
+    padding-bottom: 5px;
+}
+    h3:hover{
+        text-decoration: underline;
+        font-style: italic;
+    }
+
+a:hover{
+        color: #6c757d;
+        text-decoration: underline;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+img{
+    height: 300px;
+    align-items: center;
+}
+
+/* Custom Style Classes */
+.customlink{
+    color:black
+}
+
+.bg{
+    background-color: #BCC6CC;
+}
+
+.h2custom{
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategray;    
+    padding: 0px;
+    padding-bottom:20px
+}
+
+.listhead{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkslategray;
+}
+    .list{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: 10;
+        color: lightslategrey;
+    }
+
+.mytitles{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white
+}
+    .mytitles:hover{
+        color: white;
+    }
+    
